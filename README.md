@@ -9,7 +9,13 @@ En este curso aprendi de todo
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Trucos muy locos
+<<<<<<< HEAD
 *Creadp por el increible Daniel
+=======
+* Creadp por el increible Daniel
+* Es un ejemplo en windows
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 y como amable recordatorio **Este readme.md es un chiste**. Diseñado para practicas en pandao
 con amor (https://github.com/00lar/"00lar")
