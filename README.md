@@ -11,6 +11,7 @@ En este curso aprendi de todo
 * Trucos muy locos
 * Creadp por el increible Daniel
 * Es un ejemplo en windows
+* Disponible para todas las edades
 
 y como amable recordatorio **Este readme.md es un chiste**. Diseñado para practicas en pandao
 con amor (https://github.com/00lar/"00lar")
