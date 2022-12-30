@@ -9,6 +9,7 @@ En este curso aprendi de todo
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Trucos muy locos
+*Creadp por el increible Daniel
 
 y como amable recordatorio **Este readme.md es un chiste**. Diseñado para practicas en pandao
 con amor (https://github.com/00lar/"00lar")
